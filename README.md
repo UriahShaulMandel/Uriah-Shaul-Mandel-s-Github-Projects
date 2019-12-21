@@ -9,6 +9,8 @@ My largest open source project by far, over 44,300 lines, over two years of prog
  - [BaldPhone](https://github.com/UriahShaulMandel/BaldPhone)
  - [Gladiators](https://github.com/UriahShaulMandel/Gladiators)
  - [UDS](https://github.com/UriahShaulMandel/UDS)
+### Assembly Projects:
+ - [Don't Touch The Spikes!](https://github.com/UriahShaulMandel/Don-t-Touch-The-Spikes)
 ### C++ Projects:
  - [CPP Advanced Calculator](https://github.com/UriahShaulMandel/CPP-Advanced-Calculator)
  - [Uriah's Symetric Encryption](https://github.com/UriahShaulMandel/Uriah-s-Symmetric-Encryption)
