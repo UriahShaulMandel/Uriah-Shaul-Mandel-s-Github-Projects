@@ -2,7 +2,7 @@ NOTE - This is **not** a full list! I have developed multiple projects and tools
 ## List of Uriah Shaul Mandel's Github Projects
 
 # [BaldPhone:](https://github.com/UriahShaulMandel/BaldPhone)
-My largest open source project by far, over 44,300 lines, over two years of programming, ![3354+ Users](https://img.shields.io/endpoint?url=https%3A%2F%2Fbpbadge.000webhostapp.com%2Fget_badge.php), translated to Hebrew, English, French, Portuguese, Brazilian Portuguese, German, Spanish, Czech, Slovenian, Greek, Italian, Polish, Chinese, Russian, Romanian, Turkish and Korean.
+My largest open source project by far, over 46,000 lines, over two years of programming, ![3847+ Users](https://img.shields.io/endpoint?url=https%3A%2F%2Fbpbadge.000webhostapp.com%2Fget_badge.php), translated to Brazilian Portuguese, Chinese, Czech, English, French, German, Greek, Hebrew, Indonesian, Italian, Korean, Polish, Portuguese, Romanian, Russian, Slovenian, Spanish.
 
 # Projects:
 ### Java Projects:
