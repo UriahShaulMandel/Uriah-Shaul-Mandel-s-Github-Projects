@@ -18,6 +18,7 @@ My largest open source project by far, over 46,000 lines, over two years of prog
  - [CPP Advanced Calculator](https://github.com/UriahShaulMandel/CPP-Advanced-Calculator)
  - [Uriah's Symetric Encryption](https://github.com/UriahShaulMandel/Uriah-s-Symmetric-Encryption)
  - [Comments Remover](https://github.com/UriahShaulMandel/CommentsRemover)
-
+### Python Tools (there are many more that cannot be open sourced):
+ - [Websites Smart Search](https://github.com/UriahShaulMandel/SmartSearch)
 ### C# Games:
  - [Small games I made as a child](https://github.com/UriahShaulMandel/C-Sharp-Games)
